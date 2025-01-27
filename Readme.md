@@ -48,6 +48,6 @@ This project uses Generative AI and 3D modeling techniques to design customized 
 ### **Installation**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/PuchaArunKumar/Vision2Voxel-Designer.git
 
 
